@@ -1,0 +1,103 @@
+/* .main1{
+    flex-wrap: no-wrap;
+} */
+.search{
+    text-align: center;
+    color: brown;
+    height: 5vw;
+    background-color:beige;
+    width: 45vw;
+    border-radius: 17vw;
+    border: none;
+    font-size: 2vw;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px red solid;
+    text-align: center;
+    margin: auto;
+}
+.header{
+    width: 60vw;
+    height: 40vw;
+    text-align: center;
+    margin: auto;
+    image-resolution: 0;
+}
+body{
+    background-image: url("https://www.bing.com/th?id=OIP.L0fHj-mM9am5u2UlL18McQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.button1{
+    width: 9vw;
+    height: 5vw;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(105, 201, 174);
+    border-color: none;
+    color: rgb(11, 0, 0);
+    font-weight: bolder;
+    font-size:medium;
+    border-radius: 2vw;
+}
+.details>h1{
+    color:rgb(35, 255, 6);
+    text-align: center;
+}
+span{
+    color: rgb(255, 4, 125);
+}
+.details{
+    margin-top: 3vw;
+}
+.heading{
+    text-align: center;
+    color: burlywood;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.Link{
+    width: 24vw;
+    height: 10vw;
+    font-size:larger;
+    font-weight: bold;
+    color: rgb(237, 67, 146);
+    background-color: rgb(1, 242, 242);
+    border-radius: 2vw;
+    border: 1px rgb(18, 17, 17) solid;
+}
+button img{
+    height: 4vw;
+    border-radius: 1.5vw;
+    background-color: rgb(105, 201, 174);
+}
+.button1:hover{
+    background-color: rgba(245, 11, 229, 0.521);
+}
+button img:hover{
+    background-color: rgba(245, 11, 229, 0.521);
+}
+.flag{
+    width: 15vw;
+    height: 10vw;
+}
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5vw;
+    color: aliceblue;
+}
+.ashokachakra{
+    margin-top: 10vw;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}

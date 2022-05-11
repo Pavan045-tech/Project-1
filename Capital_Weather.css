@@ -1,0 +1,55 @@
+
+.dingoo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.c1{
+    margin-top: 20px;
+    display: flex;
+    line-height: 4vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    color: burlywood;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h1{
+    color: rgb(149, 149, 236);
+}
+.buttoon{
+    margin-top: 3vw;
+    text-align: center;
+    width: 10vw;
+    background-color: aqua;
+    font-weight: bold;
+    border-radius: 1vw;
+}
+.main2{
+    background-color: rgba(0,28,34,0.5);
+    width: 40vw;
+    height: 40vw;
+    text-align: center;
+}
+.click2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.header{
+    color: chartreuse;
+    margin-top: 7vw;
+}
+.link{
+    margin-top: 5vw;
+    width: fit-content;
+    height: fit-content;
+    color: rgb(9, 255, 226);
+    background-color: rgb(233, 146, 95);
+    border-radius: 1vw;
+}
