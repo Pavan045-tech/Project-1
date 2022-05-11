@@ -1,5 +1,5 @@
 import React from 'react';
-import Weather from './Weather';
+import Weather from './Country_search';
 import {Routes,Route} from 'react-router-dom';
 import Name from './Capital_Weather';
 
